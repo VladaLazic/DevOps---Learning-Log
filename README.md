@@ -1,4 +1,4 @@
-# DevOps---Learning-Log
+# DevOps --- Learning Log Journal
 Learning process
 
 Goal” – “LFCS prep + DevOps foundations”
